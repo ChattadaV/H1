@@ -16,6 +16,10 @@ import java.util.Scanner;
 public class FutureValueApp {
     
     public static void main(String[] args) {
+        
+        // Adding the print statement as part of git demo assignment
+        System.out.println("This print statement is added as part of git demo assignment");
+        
         System.out.println("Welcome to the Future Value Calculator");
         System.out.println();
         
